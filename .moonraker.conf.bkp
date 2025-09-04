@@ -89,3 +89,7 @@ requirements = scripts/mobileraker-requirements.txt
 install_script = scripts/install.sh
 managed_services = mobileraker
 
+[spoolman]
+server = http://10.0.0.121:7912
+sync_rate = 5
+
